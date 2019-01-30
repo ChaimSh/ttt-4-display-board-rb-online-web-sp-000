@@ -1,5 +1,6 @@
 # Define display_board that accepts a board and prints
 # out the current state.
+<<<<<<< HEAD
 #board = [" "," "," "," "," "," "," "," "," "]
 
 
@@ -10,3 +11,4 @@ puts   "-----------"
 puts   "-----------"
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 end
+=======
